@@ -1,0 +1,29 @@
+[
+  {
+    "date": "2026-10-18",
+    "look": "pl01-26aw",
+    "key": "PL_look_2026jun25_01_01_d415a0cf-01dd-4fd4-bd98-49ce5f62a5af.jpg",
+    "colors": [
+      [
+        50,
+        "PALE YELLOW"
+      ],
+      [
+        30,
+        "PALE ORANGE"
+      ],
+      [
+        1,
+        "WHITE"
+      ]
+    ],
+    "media_ids": [
+      "17997044508013470",
+      "18415154632087547"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/looks/2026-10-18/pl01-26aw_1.jpg",
+      "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/looks/2026-10-18/pl01-26aw_2.jpg"
+    ]
+  }
+]
