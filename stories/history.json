@@ -69,5 +69,23 @@
       "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/2026-10-18/10_75_2_accent.jpg"
     ],
     "reposted": "アクセント付きで投稿し直し（2026-10-18 Maiko）"
+  },
+  {
+    "date": "2026-10-18",
+    "pair": [
+      12,
+      64
+    ],
+    "pattern": "N",
+    "theme": "モード",
+    "accent": 66,
+    "media_ids": [
+      "17920587132446751",
+      "17933535645406565"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/2026-10-18/12_64_1.jpg",
+      "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/2026-10-18/12_64_2.jpg"
+    ]
   }
 ]
