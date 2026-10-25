@@ -128,5 +128,33 @@
       "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/looks/2026-10-23/pl03-26aw_1.jpg",
       "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/looks/2026-10-23/pl03-26aw_2.jpg"
     ]
+  },
+  {
+    "date": "2026-10-25",
+    "look": "pl05-26aw",
+    "key": "PL_look_2026jun25_05_05_ad82bc8d-b9a9-416e-b529-b82a23f3cb25.jpg",
+    "colors": [
+      [
+        70,
+        "LIGHT BLUE"
+      ],
+      [
+        67,
+        "FRESH GREEN"
+      ],
+      [
+        15,
+        "BLACK"
+      ]
+    ],
+    "print": null,
+    "media_ids": [
+      "17954774124328121",
+      "18129106693629009"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/looks/2026-10-25/pl05-26aw_1.jpg",
+      "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/looks/2026-10-25/pl05-26aw_2.jpg"
+    ]
   }
 ]
