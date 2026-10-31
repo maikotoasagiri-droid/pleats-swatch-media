@@ -388,5 +388,24 @@
       "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/2026-10-31/17_61_1.jpg",
       "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/2026-10-31/17_61_2.jpg"
     ]
+  },
+  {
+    "date": "2026-11-01",
+    "slot": "morning",
+    "pair": [
+      14,
+      76
+    ],
+    "pattern": "DL",
+    "theme": "ダーク×ライト",
+    "accent": "8 ICE WHITE",
+    "media_ids": [
+      "18133971133789183",
+      "18414652198089980"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/2026-11-01/14_76_1.jpg",
+      "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/2026-11-01/14_76_2.jpg"
+    ]
   }
 ]
