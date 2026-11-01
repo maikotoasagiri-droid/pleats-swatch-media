@@ -1,0 +1,522 @@
+[
+ {
+  "num": 1,
+  "name": "WHITE",
+  "rgb": [
+   244,
+   233,
+   212
+  ],
+  "notation": "W"
+ },
+ {
+  "num": 2,
+  "name": "OFF WHITE",
+  "rgb": [
+   250,
+   234,
+   197
+  ],
+  "notation": "p8"
+ },
+ {
+  "num": 10,
+  "name": "LIGHT GRAY",
+  "rgb": [
+   219,
+   219,
+   219
+  ],
+  "notation": "ltGy"
+ },
+ {
+  "num": 11,
+  "name": "LIGHT GRAY",
+  "rgb": [
+   161,
+   161,
+   161
+  ],
+  "notation": "ltGy"
+ },
+ {
+  "num": 12,
+  "name": "GRAY",
+  "rgb": [
+   132,
+   133,
+   128
+  ],
+  "notation": "mGy"
+ },
+ {
+  "num": 14,
+  "name": "GRAYISH PURPLE",
+  "rgb": [
+   171,
+   153,
+   153
+  ],
+  "notation": "ltg2"
+ },
+ {
+  "num": 15,
+  "name": "BLACK",
+  "rgb": [
+   39,
+   38,
+   36
+  ],
+  "notation": "Bk"
+ },
+ {
+  "num": 16,
+  "name": "LIGHT GRAY",
+  "rgb": [
+   122,
+   123,
+   125
+  ],
+  "notation": "mGy"
+ },
+ {
+  "num": 17,
+  "name": "CHARCOAL",
+  "rgb": [
+   87,
+   83,
+   74
+  ],
+  "notation": "dkGy"
+ },
+ {
+  "num": 19,
+  "name": "LIGHT PINK",
+  "rgb": [
+   250,
+   147,
+   135
+  ],
+  "notation": "b2"
+ },
+ {
+  "num": 20,
+  "name": "HOT PINK",
+  "rgb": [
+   242,
+   53,
+   105
+  ],
+  "notation": "v2"
+ },
+ {
+  "num": 24,
+  "name": "RED",
+  "rgb": [
+   183,
+   27,
+   36
+  ],
+  "notation": "v2"
+ },
+ {
+  "num": 25,
+  "name": "DARK RED",
+  "rgb": [
+   131,
+   54,
+   50
+  ],
+  "notation": "dp2"
+ },
+ {
+  "num": 26,
+  "name": "ROSE RED",
+  "rgb": [
+   143,
+   43,
+   53
+  ],
+  "notation": "dp2"
+ },
+ {
+  "num": 28,
+  "name": "VERMILION",
+  "rgb": [
+   230,
+   76,
+   42
+  ],
+  "notation": "v4"
+ },
+ {
+  "num": 29,
+  "name": "MAGENTA",
+  "rgb": [
+   185,
+   52,
+   102
+  ],
+  "notation": "v24"
+ },
+ {
+  "num": 30,
+  "name": "PALE ORANGE",
+  "rgb": [
+   237,
+   163,
+   132
+  ],
+  "notation": "b4"
+ },
+ {
+  "num": 31,
+  "name": "NEON ORANGE",
+  "rgb": [
+   249,
+   176,
+   106
+  ],
+  "notation": "b6"
+ },
+ {
+  "num": 32,
+  "name": "ORANGE",
+  "rgb": [
+   246,
+   98,
+   63
+  ],
+  "notation": "v4"
+ },
+ {
+  "num": 33,
+  "name": "CORAL PINK",
+  "rgb": [
+   216,
+   113,
+   101
+  ],
+  "notation": "s2"
+ },
+ {
+  "num": 34,
+  "name": "CARMINE RED",
+  "rgb": [
+   191,
+   44,
+   71
+  ],
+  "notation": "v2"
+ },
+ {
+  "num": 40,
+  "name": "LIGHT BEIGE",
+  "rgb": [
+   209,
+   175,
+   133
+  ],
+  "notation": "lt6"
+ },
+ {
+  "num": 42,
+  "name": "SAND BEIGE",
+  "rgb": [
+   196,
+   177,
+   139
+  ],
+  "notation": "lt8"
+ },
+ {
+  "num": 43,
+  "name": "ASH BEIGE",
+  "rgb": [
+   202,
+   169,
+   117
+  ],
+  "notation": "sf8"
+ },
+ {
+  "num": 45,
+  "name": "TERRACOTTA",
+  "rgb": [
+   175,
+   78,
+   67
+  ],
+  "notation": "d2"
+ },
+ {
+  "num": 46,
+  "name": "GREIGE",
+  "rgb": [
+   133,
+   117,
+   105
+  ],
+  "notation": "g6"
+ },
+ {
+  "num": 47,
+  "name": "DARK BROWN",
+  "rgb": [
+   109,
+   76,
+   58
+  ],
+  "notation": "dk4"
+ },
+ {
+  "num": 49,
+  "name": "RED BROWN",
+  "rgb": [
+   136,
+   58,
+   45
+  ],
+  "notation": "dp4"
+ },
+ {
+  "num": 50,
+  "name": "PALE YELLOW",
+  "rgb": [
+   235,
+   212,
+   145
+  ],
+  "notation": "p8"
+ },
+ {
+  "num": 52,
+  "name": "YELLOW",
+  "rgb": [
+   210,
+   162,
+   29
+  ],
+  "notation": "v8"
+ },
+ {
+  "num": 53,
+  "name": "CERULEAN BLUE",
+  "rgb": [
+   74,
+   109,
+   125
+  ],
+  "notation": "g18"
+ },
+ {
+  "num": 54,
+  "name": "OCHER",
+  "rgb": [
+   207,
+   152,
+   56
+  ],
+  "notation": "s8"
+ },
+ {
+  "num": 55,
+  "name": "YELLOW OCHER",
+  "rgb": [
+   224,
+   198,
+   31
+  ],
+  "notation": "v8"
+ },
+ {
+  "num": 56,
+  "name": "PEACOCK GREEN",
+  "rgb": [
+   18,
+   124,
+   122
+  ],
+  "notation": "d14"
+ },
+ {
+  "num": 57,
+  "name": "FOREST GREEN",
+  "rgb": [
+   33,
+   119,
+   102
+  ],
+  "notation": "d14"
+ },
+ {
+  "num": 58,
+  "name": "SAGE",
+  "rgb": [
+   139,
+   143,
+   105
+  ],
+  "notation": "sf10"
+ },
+ {
+  "num": 59,
+  "name": "PASTEL GREEN",
+  "rgb": [
+   222,
+   241,
+   195
+  ],
+  "notation": "lt10"
+ },
+ {
+  "num": 61,
+  "name": "GRAYISH GREEN",
+  "rgb": [
+   133,
+   177,
+   142
+  ],
+  "notation": "sf12"
+ },
+ {
+  "num": 62,
+  "name": "GREEN",
+  "rgb": [
+   43,
+   133,
+   66
+  ],
+  "notation": "v12"
+ },
+ {
+  "num": 64,
+  "name": "BLUE GREEN",
+  "rgb": [
+   11,
+   107,
+   102
+  ],
+  "notation": "dk14"
+ },
+ {
+  "num": 65,
+  "name": "KHAKI",
+  "rgb": [
+   79,
+   89,
+   60
+  ],
+  "notation": "dk10"
+ },
+ {
+  "num": 66,
+  "name": "TURQUOISE GREEN",
+  "rgb": [
+   79,
+   158,
+   118
+  ],
+  "notation": "b14"
+ },
+ {
+  "num": 67,
+  "name": "FRESH GREEN",
+  "rgb": [
+   47,
+   135,
+   94
+  ],
+  "notation": "s12"
+ },
+ {
+  "num": 68,
+  "name": "MOSS GREEN",
+  "rgb": [
+   68,
+   96,
+   84
+  ],
+  "notation": "dkg12"
+ },
+ {
+  "num": 69,
+  "name": "DARK GREEN",
+  "rgb": [
+   61,
+   81,
+   72
+  ],
+  "notation": "dkg12"
+ },
+ {
+  "num": 70,
+  "name": "LIGHT BLUE",
+  "rgb": [
+   174,
+   190,
+   218
+  ],
+  "notation": "ltg20"
+ },
+ {
+  "num": 72,
+  "name": "BLUE",
+  "rgb": [
+   46,
+   66,
+   117
+  ],
+  "notation": "dp20"
+ },
+ {
+  "num": 74,
+  "name": "AQUA BLUE",
+  "rgb": [
+   31,
+   131,
+   146
+  ],
+  "notation": "d16"
+ },
+ {
+  "num": 75,
+  "name": "NAVY",
+  "rgb": [
+   48,
+   48,
+   58
+  ],
+  "notation": "dkg20"
+ },
+ {
+  "num": 76,
+  "name": "NAVY BLUE",
+  "rgb": [
+   75,
+   74,
+   91
+  ],
+  "notation": "dkg20"
+ },
+ {
+  "num": 77,
+  "name": "DEEP BLUE",
+  "rgb": [
+   45,
+   83,
+   156
+  ],
+  "notation": "dp20"
+ },
+ {
+  "num": 79,
+  "name": "MARINE BLUE",
+  "rgb": [
+   53,
+   78,
+   92
+  ],
+  "notation": "dkg18"
+ }
+]
