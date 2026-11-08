@@ -654,5 +654,24 @@
       "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/2026-11-08/33_58_1.jpg",
       "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/2026-11-08/33_58_2.jpg"
     ]
+  },
+  {
+    "date": "2026-11-08",
+    "slot": "evening",
+    "pair": [
+      45,
+      61
+    ],
+    "pattern": "B",
+    "theme": "エレガント",
+    "accent": 1,
+    "media_ids": [
+      "18117205160035327",
+      "18080868533574508"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/2026-11-08/45_61_1.jpg",
+      "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/2026-11-08/45_61_2.jpg"
+    ]
   }
 ]
