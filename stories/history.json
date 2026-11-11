@@ -768,5 +768,24 @@
       "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/2026-11-11/12_77_1.jpg",
       "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/2026-11-11/12_77_2.jpg"
     ]
+  },
+  {
+    "date": "2026-11-11",
+    "slot": "evening",
+    "pair": [
+      59,
+      76
+    ],
+    "pattern": "DL",
+    "theme": "ダーク×ライト",
+    "accent": 15,
+    "media_ids": [
+      "18119233367103459",
+      "17902855419386794"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/2026-11-11/59_76_1.jpg",
+      "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/2026-11-11/59_76_2.jpg"
+    ]
   }
 ]
