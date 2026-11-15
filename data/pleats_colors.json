@@ -240,6 +240,16 @@
   "notation": "sf8"
  },
  {
+  "num": 44,
+  "name": "BROWN",
+  "rgb": [
+   103,
+   80,
+   54
+  ],
+  "notation": "dk6"
+ },
+ {
   "num": 45,
   "name": "TERRACOTTA",
   "rgb": [
@@ -393,11 +403,11 @@
   "num": 64,
   "name": "BLUE GREEN",
   "rgb": [
-   11,
-   107,
-   102
+   51,
+   79,
+   73
   ],
-  "notation": "dk14"
+  "notation": "dkg14"
  },
  {
   "num": 65,
