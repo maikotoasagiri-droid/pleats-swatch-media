@@ -939,5 +939,24 @@
       "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/2026-11-15/2_75_1.jpg",
       "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/2026-11-15/2_75_2.jpg"
     ]
+  },
+  {
+    "date": "2026-11-16",
+    "slot": "morning",
+    "pair": [
+      33,
+      62
+    ],
+    "pattern": "B",
+    "theme": "カジュアル",
+    "accent": "45 SHELL BEIGE",
+    "media_ids": [
+      "17997472548053842",
+      "18615370912071395"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/2026-11-16/33_62_1.jpg",
+      "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/2026-11-16/33_62_2.jpg"
+    ]
   }
 ]
