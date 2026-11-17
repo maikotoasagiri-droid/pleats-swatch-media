@@ -996,5 +996,24 @@
       "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/2026-11-17/40_79_1.jpg",
       "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/2026-11-17/40_79_2.jpg"
     ]
+  },
+  {
+    "date": "2026-11-17",
+    "slot": "evening",
+    "pair": [
+      1,
+      44
+    ],
+    "pattern": "N",
+    "theme": "モード",
+    "accent": "39 PINEAPPLE",
+    "media_ids": [
+      "18037904882666876",
+      "18083915549356742"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/2026-11-17/1_44_1.jpg",
+      "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/2026-11-17/1_44_2.jpg"
+    ]
   }
 ]
