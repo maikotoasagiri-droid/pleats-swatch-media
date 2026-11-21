@@ -1167,5 +1167,24 @@
       "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/2026-11-21/31_65_1.jpg",
       "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/2026-11-21/31_65_2.jpg"
     ]
+  },
+  {
+    "date": "2026-11-22",
+    "slot": "morning",
+    "pair": [
+      2,
+      16
+    ],
+    "pattern": "N",
+    "theme": "フェミニン",
+    "accent": "34 PEANUT",
+    "media_ids": [
+      "18136385740739312",
+      "18098810750149954"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/2026-11-22/2_16_1.jpg",
+      "https://raw.githubusercontent.com/maikotoasagiri-droid/pleats-swatch-media/main/stories/2026-11-22/2_16_2.jpg"
+    ]
   }
 ]
